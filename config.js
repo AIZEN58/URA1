@@ -8,24 +8,23 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['212669512443', '🐉 𝐾𝑈𝑅𝛩𝑺𝐴𝐾𝐼 🐍', true],
-  ['212722121256', '🐉 𝐾𝑈𝑅𝛩𝑺𝐴𝐾𝐼 🐍', true]
+  ['966593311570', '🗿 𝑈𝑅𝐴𝐻𝐴𝑅𝐴', true]
 ];
 // يمكنك تغير البرمجه من هنا كل ما عليك هوا تغير الاصفر مثل '✆⏐' تحط الزخرفه الخاصه بك مثل '★|•' هكذا 
-global.accc = '𝐾𝑈𝑅𝛩𝑺𝐴𝐾𝐼';
+global.accc = '𝑈𝑅𝐴𝐻𝐴𝑅𝐴';
 global.avvv = '✆⏐';
 global.suittag = ['201554582851', '201033024135'];
 global.prems = ['201554582851', '201033024135'];
 
-global.anabro = "𝐾𝑈𝑅𝛩𝑺𝐴𝐾𝐼";
-global.veeeee = " 🐉 𝐾𝑈𝑅𝛩𝑺𝐴𝐾𝐼 🐍\n✆ +212669512443 ♕";
-global.veeee = "حط حقوقك";
-global.packname = 'حط حقوقك';
-global.author = 'حط حقوقك';
-global.wm = 'حط حقوقك';
-global.titulowm = 'حط حقوقك';
-global.titulowm2 = `حط حقوقك`
-global.igfg = 'حط حقوقك';
+global.anabro = "𝑈𝑅𝐴𝐻𝐴𝑅𝐴";
+global.veeeee = " 🗿 𝑈𝑅𝐴𝐻𝐴𝑅𝐴 \n✆ +966593311570 ♕";
+global.veeee = "𝑀𝐴𝐾𝐼𝑀𝐴 𝐵𝛩𝑇";
+global.packname = '𝑀𝐴𝐾𝐼𝑀𝐴 𝐵𝛩𝑇';
+global.author = '𝑀𝐴𝐾𝐼𝑀𝐴 𝐵𝛩𝑇';
+global.wm = '𝑀𝐴𝐾𝐼𝑀𝐴 𝐵𝛩𝑇';
+global.titulowm = '𝑀𝐴𝐾𝐼𝑀𝐴 𝐵𝛩𝑇';
+global.titulowm2 = `𝑀𝐴𝐾𝐼𝑀𝐴 𝐵𝛩𝑇`
+global.igfg = '𝑀𝐴𝐾𝐼𝑀𝐴 𝐵𝛩𝑇';
 global.wait = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -46,15 +45,15 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ حط حقوقك`;
-global.gt = 'حط حقوقك';
-global.mysticbot = 'حط حقوقك';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝑀𝐴𝐾𝐼𝑀𝐴 𝐵𝛩𝑇`;
+global.gt = '𝑀𝐴𝐾𝐼𝑀𝐴 𝐵𝛩𝑇';
+global.mysticbot = '𝑀𝐴𝐾𝐼𝑀𝐴 𝐵𝛩𝑇';
 global.md = 'https://atom.bio/kurosaki_mah';
-global.mysticbot = 'https://atom.bio/kurosaki_mah';
+global.mysticbot = '';
 global.waitt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 global.waittt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 global.waitttt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
-global.nomorown = '212669512443';
+global.nomorown = '966593311570';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
