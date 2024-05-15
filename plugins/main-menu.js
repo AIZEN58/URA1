@@ -19,7 +19,7 @@ let handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, isPr
     let uptime = clockString(_uptime)
     let who = m.quoted ? m.quoted.sender : m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
     if (!(who in global.db.data.users)) throw `✳️ The user is not found in my database`
-    let videoUrl = 'https://telegra.ph/file/772acd48a378af8d390af.mp4';
+    let videoUrl = 'https://telegra.ph/file/37649d24d8de19dc61fe6.mp4';
     let vn = '.Menu.png';
     const user = global.db.data.users[m.sender];
     const {money, joincount} = global.db.data.users[m.sender];
@@ -34,10 +34,10 @@ let handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, isPr
     let more = String.fromCharCode(8206)
     let readMore = more.repeat(900) 
     const taguser = '@' +  m.sender.split('@s.whatsapp.net')[0];
-    let str = `*❅ ━━━━ » ✥ «﷽» ✥ « ━━━━ ❅
+    let str = `*❅ ━━━━ » ✥ «﷽» ✥ « ━━━━ ❅*
 *│❑↫  الـوقـت : ${wib}*
 _*╔══════════════════════════*_
-👋 *مرحبا انا ماكيما بوت*
+👋 *مرحبا يا ${taguser} انا ماكيما بوت*
 _*══════════════════════════*_
  _*< معلوماتك />*_
  ▢  اسمك : ${username}
