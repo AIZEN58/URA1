@@ -27,7 +27,7 @@ global.titulowm2 = `𝑀𝐴𝐾𝐼𝑀𝐴 𝐵𝛩𝑇`
 global.igfg = '𝑀𝐴𝐾𝐼𝑀𝐴 𝐵𝛩𝑇';
 global.wait = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 
-global.imagen1 = fs.readFileSync('./Menu2.jpg');
+global.imagen1 = fs.readFileSync('./Menu2.png');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
 global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
 global.imagen4 = fs.readFileSync('./Menu.png');
